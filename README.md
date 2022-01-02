@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computers
 - 🌱 I’m currently learning GDScript
 - 💞️ I’m looking to collaborate on Game Development
-- 📫 How to reach me (sry you can't)
+- 📫 Reach me on discord with Djkcool#2981
 
 <!---
 Djkcool29/Djkcool29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
